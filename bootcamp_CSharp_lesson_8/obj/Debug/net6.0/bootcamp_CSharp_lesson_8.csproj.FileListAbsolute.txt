@@ -1,0 +1,15 @@
+D:\GIT-YOUTUBE\Bootcamp\c_sharp_bootcamp\bootcamp_CSharp_lesson_8\bootcamp_CSharp_lesson_8\bin\Debug\net6.0\bootcamp_CSharp_lesson_8.exe
+D:\GIT-YOUTUBE\Bootcamp\c_sharp_bootcamp\bootcamp_CSharp_lesson_8\bootcamp_CSharp_lesson_8\bin\Debug\net6.0\bootcamp_CSharp_lesson_8.deps.json
+D:\GIT-YOUTUBE\Bootcamp\c_sharp_bootcamp\bootcamp_CSharp_lesson_8\bootcamp_CSharp_lesson_8\bin\Debug\net6.0\bootcamp_CSharp_lesson_8.runtimeconfig.json
+D:\GIT-YOUTUBE\Bootcamp\c_sharp_bootcamp\bootcamp_CSharp_lesson_8\bootcamp_CSharp_lesson_8\bin\Debug\net6.0\bootcamp_CSharp_lesson_8.dll
+D:\GIT-YOUTUBE\Bootcamp\c_sharp_bootcamp\bootcamp_CSharp_lesson_8\bootcamp_CSharp_lesson_8\bin\Debug\net6.0\bootcamp_CSharp_lesson_8.pdb
+D:\GIT-YOUTUBE\Bootcamp\c_sharp_bootcamp\bootcamp_CSharp_lesson_8\bootcamp_CSharp_lesson_8\obj\Debug\net6.0\bootcamp_CSharp_lesson_8.csproj.AssemblyReference.cache
+D:\GIT-YOUTUBE\Bootcamp\c_sharp_bootcamp\bootcamp_CSharp_lesson_8\bootcamp_CSharp_lesson_8\obj\Debug\net6.0\bootcamp_CSharp_lesson_8.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIT-YOUTUBE\Bootcamp\c_sharp_bootcamp\bootcamp_CSharp_lesson_8\bootcamp_CSharp_lesson_8\obj\Debug\net6.0\bootcamp_CSharp_lesson_8.AssemblyInfoInputs.cache
+D:\GIT-YOUTUBE\Bootcamp\c_sharp_bootcamp\bootcamp_CSharp_lesson_8\bootcamp_CSharp_lesson_8\obj\Debug\net6.0\bootcamp_CSharp_lesson_8.AssemblyInfo.cs
+D:\GIT-YOUTUBE\Bootcamp\c_sharp_bootcamp\bootcamp_CSharp_lesson_8\bootcamp_CSharp_lesson_8\obj\Debug\net6.0\bootcamp_CSharp_lesson_8.csproj.CoreCompileInputs.cache
+D:\GIT-YOUTUBE\Bootcamp\c_sharp_bootcamp\bootcamp_CSharp_lesson_8\bootcamp_CSharp_lesson_8\obj\Debug\net6.0\bootcamp_CSharp_lesson_8.dll
+D:\GIT-YOUTUBE\Bootcamp\c_sharp_bootcamp\bootcamp_CSharp_lesson_8\bootcamp_CSharp_lesson_8\obj\Debug\net6.0\refint\bootcamp_CSharp_lesson_8.dll
+D:\GIT-YOUTUBE\Bootcamp\c_sharp_bootcamp\bootcamp_CSharp_lesson_8\bootcamp_CSharp_lesson_8\obj\Debug\net6.0\bootcamp_CSharp_lesson_8.pdb
+D:\GIT-YOUTUBE\Bootcamp\c_sharp_bootcamp\bootcamp_CSharp_lesson_8\bootcamp_CSharp_lesson_8\obj\Debug\net6.0\bootcamp_CSharp_lesson_8.genruntimeconfig.cache
+D:\GIT-YOUTUBE\Bootcamp\c_sharp_bootcamp\bootcamp_CSharp_lesson_8\bootcamp_CSharp_lesson_8\obj\Debug\net6.0\ref\bootcamp_CSharp_lesson_8.dll
