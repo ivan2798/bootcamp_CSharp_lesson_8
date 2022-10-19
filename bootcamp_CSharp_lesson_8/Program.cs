@@ -13,7 +13,7 @@ namespace bootcamp_CSharp_lesson_8
 
         static void Main(string[] args)
         {
-            int[] edades;
+            /*int[] edades;
 
             edades = new int[4];
 
@@ -23,7 +23,9 @@ namespace bootcamp_CSharp_lesson_8
 
             edades[2] = 19;
 
-            edades[3] = 80;
+            edades[3] = 80;*/
+
+            int[] edades = { 25, 29, 19, 80, 21 };
 
             Console.WriteLine(edades[2]);
             
