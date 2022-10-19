@@ -13,25 +13,54 @@ namespace bootcamp_CSharp_lesson_8
 
         static void Main(string[] args)
         {
-            /*int[] edades;
+            // array implícito
 
-            edades = new int[4];
+            // var datos = new[] { "Bruno", "Díaz", 40 };
 
-            edades[0] = 15;
+            var valores = new[] { 15, 28, 35, 75.5, 50.0, 90}; //todo a double
 
-            edades[1] = 27;
+            //array de objetos
 
-            edades[2] = 19;
+            Empleados Ana = new Empleados("Ana", 400);
 
-            edades[3] = 80;*/
+            Empleados[] arrayEmpleados = new Empleados[2];
 
-            int[] edades = { 25, 29, 19, 80, 21 };
+            arrayEmpleados[0] = new Empleados("Sara", 400);
 
-            Console.WriteLine(edades[2]);
-            
+            arrayEmpleados[1] = Ana;
+
+            //array de tipos o clases anónimas
+
+            var personas = new[]
+            {
+                new{Nombre="Juan", Dinero=19},
+
+                new{Nombre="Marcos", Dinero=500},
+
+                new{Nombre="Jorge", Dinero=900}
+            };
+
+            for (int i = 0; i <5; i++)
+            {
+                Console.WriteLine(valores[i]);
+            }
+
         }
 
 
+    }
+
+    class Empleados
+    {
+        public Empleados(String nombre, int dinero)
+        {
+            this.nombre = nombre;   
+            
+            this.dinero = dinero;   
+        }
+
+        string nombre;
+        int dinero;
     }
 
 }
